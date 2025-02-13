@@ -1,3 +1,7 @@
 wurde implementiert.
+<<<<<< branch1
 1.) Änderung in branch1
 3.) Änderung in branch1
+=======
+2.) Änderung in Main Branch.
+>>>>>> main
